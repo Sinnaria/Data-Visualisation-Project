@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+    width: 100%;
+    height: 100%;
+}
+
+.containerHeading {
+    background-color: aqua;
+}
+
+.containerInformation {
+    background-color: rgb(255, 255, 255);
+
+}
